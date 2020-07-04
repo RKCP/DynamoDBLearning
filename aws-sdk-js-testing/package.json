@@ -1,0 +1,14 @@
+{
+  "name": "aws-sdk-js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "write-operations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raphael",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.709.0"
+  }
+}
