@@ -66,3 +66,5 @@ docClient.delete({
         console.log(data);
     }
 });
+
+// Can also include batch write operations which allow you to put/delete multiple items at once in the table.
