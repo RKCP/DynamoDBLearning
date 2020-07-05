@@ -64,3 +64,4 @@ docClient.scan({
 
 
 // There is also a .batchGet operation which allows you to request multiple items from multiple tables at once.
+// If result is truncated, use JSON.stringify(data, null, 2) to make it readable.
